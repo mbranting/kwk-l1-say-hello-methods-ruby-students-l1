@@ -2,4 +2,4 @@
 def hello (name = "Ruby Programmer")
   puts "Hello #{name}!"
 end
-hello
+hello("Gabriella")
